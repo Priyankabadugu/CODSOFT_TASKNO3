@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ExpenseWise
 
-# Run and deploy your AI Studio app
+ExpenseWise is a frontend expense tracker application developed as part of my CodSoft Internship.
 
-This contains everything you need to run your app locally.
+## Technologies Used
+- React
+- TypeScript
+- Vite
 
-View your app in AI Studio: https://ai.studio/apps/b44cccc2-0d75-422e-be2f-8c4a1acd2fa2
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Features
+- Add and manage expenses
+- Expense categories
+- Dashboard
+- Responsive design
